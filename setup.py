@@ -1,4 +1,3 @@
-# Scrapy setup.py script
 #
 # It doesn't depend on setuptools, but if setuptools is available it'll use
 # some of its features, like package dependencies.
